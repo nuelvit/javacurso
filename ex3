@@ -2,7 +2,7 @@ package curso_programacao;
 
 import java.util.Scanner;
 
-//ler uma string a partir do teclado
+//ler uma var a partir do teclado
 
 public class Main {
 
@@ -12,6 +12,7 @@ public class Main {
       Scanner sc = new Scanner(System.in);
       
       String x;
+      //so trocar a var apos o next, ex int
       x = sc.next();
       System.out.println("Voce digitou: " + x);
       
