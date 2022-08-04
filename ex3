@@ -2,7 +2,7 @@ package curso_programacao;
 
 import java.util.Scanner;
 
-\\ler palavra a partir do teclado
+//ler palavra a partir do teclado
 
 public class Main {
 
